@@ -1,4 +1,4 @@
-package java-arrays.MinMax_in_Array;
+//package java-arrays.MinMax_in_Array;
 
 public class Main {
      
