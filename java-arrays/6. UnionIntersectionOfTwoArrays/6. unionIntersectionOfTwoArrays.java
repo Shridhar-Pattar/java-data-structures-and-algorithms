@@ -10,6 +10,9 @@ public class unionIntersectionOfTwoArrays {
                  
                 uniqueElement = k[i];
                 uniqueElementCount++;
+
+
+                
                 
             }
                 
